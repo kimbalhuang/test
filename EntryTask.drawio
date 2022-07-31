@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-31T04:22:47.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-o788Bgs6gvv4LU6AJFy" version="20.2.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-07-31T04:58:28.150Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="7sOdw0rBm3oLd7ofUi4h" version="20.2.0" type="github" pages="9">
   <diagram id="DqmnmwJtcrJ_0jq9ARu_" name="注册初版">
     <mxGraphModel dx="1234" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -509,11 +509,20 @@
             <mxPoint x="400" y="336" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YAPuN_qXGXW7QLWm5ifo-10" value="返回&lt;br&gt;结果" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="YAPuN_qXGXW7QLWm5ifo-1">
+        <mxCell id="YAPuN_qXGXW7QLWm5ifo-10" value="设置&lt;br&gt;cookie过期" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="YAPuN_qXGXW7QLWm5ifo-1">
           <mxGeometry x="400" y="305" width="102" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R5fuKn23JgjiF5B2YZw1-0" value="返回&lt;br&gt;失败信息" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="YAPuN_qXGXW7QLWm5ifo-1">
           <mxGeometry x="244" y="420" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="evkrlGQQIihbLfT5izLI-0" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;strokeWidth=2;" edge="1" parent="YAPuN_qXGXW7QLWm5ifo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="502" y="335.5" as="sourcePoint" />
+            <mxPoint x="552" y="336" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evkrlGQQIihbLfT5izLI-1" value="返回&lt;br&gt;结果" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="YAPuN_qXGXW7QLWm5ifo-1">
+          <mxGeometry x="552" y="305" width="102" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
