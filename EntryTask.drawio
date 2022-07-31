@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-31T08:57:02.878Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="C24wRtM6jXn-71y5XN7N" version="20.2.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-07-31T15:10:47.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OMEmBjLMtJxjJaD9nRs1" version="20.2.0" type="github" pages="10">
   <diagram id="DqmnmwJtcrJ_0jq9ARu_" name="注册初版">
     <mxGraphModel dx="1234" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -563,7 +563,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FIOAJgq1sLVzdibyZwi1" name="DevOps">
-    <mxGraphModel dx="881" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="881" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -594,12 +594,6 @@
         <mxCell id="jlwI4CxQZFMc02bbRB_6-5" value="运维平台&lt;br&gt;Space" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jlwI4CxQZFMc02bbRB_6-6" value="本地开发&lt;br&gt;goland" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="900" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jlwI4CxQZFMc02bbRB_6-7" value="本地开发&lt;br&gt;goland" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1080" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="jlwI4CxQZFMc02bbRB_6-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;git&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="120" width="60" height="30" as="geometry" />
         </mxCell>
@@ -608,6 +602,12 @@
         </mxCell>
         <mxCell id="jlwI4CxQZFMc02bbRB_6-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;jenkins&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=18;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="300" y="27" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XTD_agweB_rN4SUjGsNm-4" value="Services" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="336" y="65" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XTD_agweB_rN4SUjGsNm-5" value="Deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="420" y="66" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
